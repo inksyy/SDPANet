@@ -1,6 +1,6 @@
 """
     This package imports necessary libraries and defines useful objects
 
-    Author: KaiXin Lin
+    Author: LKX
     Date:   09/04/2021
 """
